@@ -1,0 +1,9 @@
+site_name: Recode Ticket Bot Docs
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: indigo
+    accent: indigo
+nav:
+  - Home: index.md
