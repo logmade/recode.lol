@@ -1,3 +1,6 @@
+jekyll-theme-minimal
+
+@import "{{ site.theme }}";
 # Recode Ticket Bot - Setup & Commands
 
 Welcome to **Recode**, your Discord ticket management bot. This guide will show you how to set it up and explain every command.
