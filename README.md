@@ -2,6 +2,8 @@
 
 Welcome to **Recode**, your Discord ticket management bot. This guide will show you how to set it up and explain every command.
 
+[Invite recode to your server](https://discord.com/oauth2/authorize?client_id=1466763293929508988&permissions=4505251310783504&integration_type=0&scope=bot)
+
 ---
 
 ## 1. Setting Up Recode
