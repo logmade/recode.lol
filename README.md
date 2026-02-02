@@ -26,23 +26,19 @@ Sends an interactive ticket panel to a selected channel. Users can click buttons
 
 ## 2. Ticket Commands
 
-### User Commands
 | Command | Description |
 |---------|-------------|
 | `/adduser` | Add a user to the current ticket, giving them access. |
 | `/removeuser` | Remove a user's access from the current ticket. |
 | `/close` | Close the ticket in the current channel (works like the Close button). |
 | `/silentclose` | Close the ticket silently without notifications or transcript. |
-
-### Admin Commands
-| Command | Description |
-|---------|-------------|
 | `/closeall` | Close all open tickets in the server. |
 | `/createticket <user>` | Create a ticket for a specified user, claiming it for you. |
 | `/disable` | Disable ticket creation on this server. |
 | `/enable` | Enable ticket creation on this server. |
 | `/forceunclaim` | Force unclaim a ticket claimed by another support member (permissions only). |
 | `/setreview` | Set the channel where ticket reviews are posted. |
+
 
 ### Blacklist / Permissions
 | Command | Description |
@@ -55,7 +51,7 @@ Sends an interactive ticket panel to a selected channel. Users can click buttons
 ### Ticket List & Tracking
 | Command | Description |
 |---------|-------------|
-| `/list` | List all current tickets in the server. |
+| `/list` | List all blacklisted members in the server. |
 | `/ticketlist` | Shows a list of all current tickets with details. |
 
 ---
